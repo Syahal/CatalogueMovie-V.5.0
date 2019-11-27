@@ -48,6 +48,9 @@ public class MyReminder extends BroadcastReceiver {
 
     String DATE_FORMAT = "yyyy-MM-dd";
 
+    public MyReminder() {
+    }
+
     public MyReminder(Context context) {
         this.context = context;
     }
@@ -65,8 +68,8 @@ public class MyReminder extends BroadcastReceiver {
 
     private Calendar calendar(String type) {
         Calendar calendar = Calendar.getInstance();
-        calendar.set(Calendar.HOUR_OF_DAY, type.equals(DAILY_REMINDER) ? 7 : 8);
-        calendar.set(Calendar.MINUTE, 35);
+        calendar.set(Calendar.HOUR_OF_DAY, type.equals(DAILY_REMINDER) ? 16 : 16);
+        calendar.set(Calendar.MINUTE, 31);
         calendar.set(Calendar.SECOND, 0);
 
         if (calendar.before(Calendar.getInstance())) {
