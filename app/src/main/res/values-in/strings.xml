@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Submission3</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tab_movies">Film</string>
+    <string name="tab_tvshows">Tayangan TV</string>
+    <string name="movie_name">Nama Film</string>
+    <string name="movie_release">Tanggal Rilis</string>
+    <string name="movie_description">Deskripsi</string>
+    <string name="tvshow_name">Nama Acara TV</string>
+    <string name="tvshow_release">Waktu Tayang</string>
+    <string name="tvshow_description">Deskripsi</string>
+    <string name="detail_tvshow_name">Nama Acara TV</string>
+    <string name="detail_tvshow_release">Waktu Tayang</string>
+    <string name="detail_tvshow_description">Deskripsi</string>
+    <string name="detail_movie_name">Nama Film</string>
+    <string name="detail_movie_release">Tanggal Rilis</string>
+    <string name="detail_movie_description">Deskripsi</string>
+    <string name="change_language">Ganti Bahasa</string>
+    <string name="search">Cari Item</string>
+    <string name="movie_search">Film</string>
+    <string name="tv_search">Tayangn TV</string>
+    <string name="search_movie">Cari Film</string>
+    <string name="search_tvshow">Cari Tayangan TV</string>
+    <string name="appwidget_text">Contoh</string>
+    <string name="add_widget">Tambah Widget</string>
+    <string name="favorite">Favorit</string>
+    <string name="no_result">Tidak Ada Widget Favorit</string>
+    <string name="reminder">Pengingat</string>
+    <string name="title_daily_reminder">Pengingat Harian</string>
+    <string name="title_new_release_reminder">Pengingat Tayangan Rilis Baru</string>
+    <string name="no_release">Tidak Ada Rilis Baru</string>
+    <string name="msg_release_today">Telah Rilis hari ini</string>
+    <string name="cancel_reminder">Batalkan Pengingat</string>
+    <string name="daily_reminder_on">Pengingat Harian Aktif</string>
+    <string name="daily_reminder_off">Pengingat Harian Tidak Aktif</string>
+    <string name="new_release_reminder_on">Pengingat Rilis Tayangan Baru Aktif</string>
+    <string name="new_release_reminder_off">Pengingat Rilis Tayangan Baru Tidak Aktif</string>
+</resources>

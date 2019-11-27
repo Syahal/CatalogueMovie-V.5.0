@@ -1,0 +1,41 @@
+<resources>
+    <string name="app_name">Submission4</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="tab_movies">Movies</string>
+    <string name="tab_tvshows">TV Shows</string>
+    <string name="movie_name">Movie Name</string>
+    <string name="movie_release">Release Date</string>
+    <string name="movie_description">Description</string>
+    <string name="tvshow_name">TV Show Name</string>
+    <string name="tvshow_release">Release Date</string>
+    <string name="tvshow_description">Overview</string>
+    <string name="detail_tvshow_name">TV Show Name</string>
+    <string name="detail_tvshow_release">Airing Date</string>
+    <string name="detail_tvshow_description">Overview</string>
+    <string name="detail_movie_name">Movie Name</string>
+    <string name="detail_movie_release">Release Date</string>
+    <string name="detail_movie_description">Overview</string>
+    <string name="change_language">Change Language</string>
+    <string name="search">Search Item</string>
+    <string name="movie_search">Movie</string>
+    <string name="tv_search">TV Show</string>
+    <string name="search_movie">Search Movie</string>
+    <string name="search_tvshow">Search TV Show</string>
+    <string name="appwidget_text">EXAMPLE</string>
+    <string name="add_widget">Add widget</string>
+    <string name="favorite">Favorite</string>
+    <string name="no_result">No Favorite Widget</string>
+    <string name="reminder">Alarm Reminder</string>
+    <string name="title_daily_reminder">Daily Reminder</string>
+    <string name="title_new_release_reminder">New Release Catalogue Reminder</string>
+    <string name="no_release">No Catalogue Release Today</string>
+    <string name="msg_release_today">Has been Release Today</string>
+    <string name="cancel_reminder">Reminder Cancel</string>
+    <string name="daily_reminder_on">Daily Reminder is Active</string>
+    <string name="daily_reminder_off">Daily Reminder is not Active</string>
+    <string name="new_release_reminder_on">New Release Reminder is Active</string>
+    <string name="new_release_reminder_off">New Release Reminder is not Active</string>
+    <string name="daily_reminder">Daily Reminder</string>
+</resources>
